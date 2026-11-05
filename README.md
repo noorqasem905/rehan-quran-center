@@ -30,3 +30,13 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+
+// some update should be applied to this project
+-- web show full screen
+-- add user for perent 
+   --  show جواز السفر
+   --  show الاحصاء للشعبه
+   --  update page for input the paryer for his son
+   --  some thing is important that message for the parent if his students not attend for day
+   --  tell him if his son's point is on less or less
